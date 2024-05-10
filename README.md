@@ -1,1 +1,1 @@
-/* Good*/
+This code is for an ESP8266 microcontroller board, commonly used for IoT (Internet of Things) projects. It's designed to read temperature and humidity data from a DHT11 sensor and then send this data to a server hosted at api.farmcloud.com.
